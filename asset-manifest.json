@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NalandaLite/static/css/main.073c9b0a.css",
-    "main.js": "/NalandaLite/static/js/main.ae7992b6.js",
+    "main.js": "/NalandaLite/static/js/main.1f5e5945.js",
     "static/js/787.aca46d25.chunk.js": "/NalandaLite/static/js/787.aca46d25.chunk.js",
     "index.html": "/NalandaLite/index.html",
     "main.073c9b0a.css.map": "/NalandaLite/static/css/main.073c9b0a.css.map",
-    "main.ae7992b6.js.map": "/NalandaLite/static/js/main.ae7992b6.js.map",
+    "main.1f5e5945.js.map": "/NalandaLite/static/js/main.1f5e5945.js.map",
     "787.aca46d25.chunk.js.map": "/NalandaLite/static/js/787.aca46d25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ae7992b6.js"
+    "static/js/main.1f5e5945.js"
   ]
 }
